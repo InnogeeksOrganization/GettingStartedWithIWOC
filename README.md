@@ -126,7 +126,7 @@ The most common use case for GitHub Actions is to automatically build and test c
 
 ### Some sample github actions
 
-These are some github actions which you can use in your repository.You can find the ```.yml``` files for some of these [here](GettingStartedWithIWOC/.github/workflows/). You can use them as a refrence and setup your actions in your repositories.
+These are some github actions which you can use in your repository.You can find the ```.yml``` files for some of these [here](.github/workflows/). You can use them as a refrence and setup your actions in your repositories.
 
 * [Greeting New Contributors](https://github.com/marketplace/actions/welcome-new-contributors)
 * [Adding Contributor Names in README](https://github.com/marketplace/actions/auto-add-contributors)
