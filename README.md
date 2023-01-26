@@ -104,9 +104,9 @@ This repository also contains some useful resources which you can use right out 
 
 You can use the following templates in your repositories.
 
-* [Contributing.md](CONTRIBUTING.md)
-* [Issue template](GettingStartedWithIWOC/.github/ISSUE_TEMPLATE/)
-* [PR template](GettingStartedWithIWOC/.github/pull_request_template.md)
+* [Contributing.md](Contributing.md)
+* [Issue template](.github/ISSUE_TEMPLATE/)
+* [PR template](.github/pull_request_template.md)
 
 [How to configure Issue Templates for your repository?](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 
