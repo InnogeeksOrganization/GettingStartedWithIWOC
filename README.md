@@ -89,8 +89,8 @@ All issues submitted must be verified by the project maintainer and assigned a d
 
 ### Scoring Parameters 
 * Easy - 10 Points
-* Medium - 20 Points 
-* Hard - 30 Points
+* Medium - 30 Points 
+* Hard - 60 Points
 
 Calculation of the scored points will be done at the end of the event by IWOC's team.
 
